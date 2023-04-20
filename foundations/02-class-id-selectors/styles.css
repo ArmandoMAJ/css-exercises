@@ -1,4 +1,22 @@
-.class1 .class2 .class3{
+.class1, .class2, .class3{
     background-color: rgb(248, 2, 104);
     font-family: Verdana DejaVu Sans sans-serif;
+}
+
+
+#id1 #id2{
+    font-size: 24px;
+}
+
+
+
+#id1{
+    color: blue;
+    font-size: 36px;
+}
+
+#id2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
 }
